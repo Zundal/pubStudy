@@ -11,8 +11,12 @@
             "id": "992ea609b6241a3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "스프링 리액티브.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "스프링 리액티브.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "스프링 리액티브.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "스프링 리액티브.md"
+              }
             }
           },
           {
@@ -150,13 +157,14 @@
   },
   "active": "992ea609b6241a3a",
   "lastOpenFiles": [
-    "Develop/Spring/Spring&Java.md",
+    "무제 파일.canvas",
     "스프링 리액티브.md",
-    "Cloud/openStack/오픈스택문서.md",
-    "Cloud/openStack/오픈스택이해.md",
-    "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
-    "Cloud/Docker&K8S.md",
+    "Develop/Spring/Spring&Java.md",
     "Develop/Spring/스프링  FLUX .md",
+    "Cloud/Docker&K8S.md",
+    "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
+    "Cloud/openStack/오픈스택이해.md",
+    "Cloud/openStack/오픈스택문서.md",
     "README.md",
     "Develop/Gin",
     "Develop/Spring",
@@ -164,7 +172,6 @@
     "Cloud/openStack",
     "Develop",
     "Cloud",
-    "무제 파일.canvas",
     "2023-07-06.md",
     "옵시디언테스트.md",
     "새로운 자료.md",
