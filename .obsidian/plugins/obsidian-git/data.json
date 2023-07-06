@@ -1,5 +1,5 @@
 {
-  "commitMessage": "호스트명 : {{hostname}} 변경파일 : {{files}} backup: {{date}}",
+  "commitMessage": "호스트명 : {{hostname}} backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 10,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "호스트명 : {{hostname}} 변경파일 : {{files}} backup: {{date}}"
+  "autoCommitMessage": "호스트명 : {{hostname}} backup: {{date}}"
 }
