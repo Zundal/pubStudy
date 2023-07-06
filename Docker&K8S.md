@@ -1,11 +1,21 @@
 도커 쿠버네티스 
 
-| <input type="checkbox"/> | Name         | Tags | Url |
-| ------------------------ | ------------ | ---- | --- |
-| <input type="checkbox"/> | 오픈스택     | #오픈스택| https://velog.io/@rhee519/k8s-getting-started     |
-| <input type="checkbox"/> | 오픈스택문서 | #오픈스택 #문서 | https://docs.openstack.org/ko_KR/     |
-| <input type="checkbox"/> | 쿠버네티스 | #K8S #문서 | https://kubernetes.io/ko/     |
-| <input type="checkbox"/>| 쿠버네티스 기초  | #K8S  #문서 | https://velog.io/@rhee519/k8s-getting-started     |
+| <input type="checkbox"/> | Name                                     | Tags            | Url                                           |
+| ------------------------ | ---------------------------------------- | --------------- | --------------------------------------------- |
+| <input type="checkbox"/> | 오픈스택                                 | #오픈스택       | https://velog.io/@rhee519/k8s-getting-started |
+| <input type="checkbox"/> | 오픈스택문서                             | #오픈스택 #문서 | https://docs.openstack.org/ko_KR/             |
+| <input type="checkbox"/> | 쿠버네티스                               | #K8S #문서      | https://kubernetes.io/ko/                     |
+| <input type="checkbox"/> | 쿠버네티스 기초                          | #K8S  #문서     | https://velog.io/@rhee519/k8s-getting-started |
+|                          | 그림과 실습으로 배우는 도커 & 쿠버네티스 |                 |                                               |
+|                          | 도커컴포즈                               |                 |                                               |
+|                          | 쿠버네티스 아키택처 마스터노드/워커노드  |                 |                                               |
+|                          | 클라우드 관리플랫폼 CMP                  |                 |                                               |
+|                          | 클라우드 관리플랫폼 CMP                  |                 |                                               |
+|                          |                                          |                 |                                               |
+
+
+
+
 
 
 
