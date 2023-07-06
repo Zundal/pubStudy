@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker&K8S.md",
+                "file": "Cloud/openStack/오픈스택이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker&K8S.md",
+                "file": "Cloud/openStack/오픈스택이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker&K8S.md",
+                "file": "Cloud/openStack/오픈스택이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker&K8S.md"
+                "file": "Cloud/openStack/오픈스택이해.md"
               }
             }
           },
@@ -157,11 +157,13 @@
   },
   "active": "992ea609b6241a3a",
   "lastOpenFiles": [
+    "Cloud/Docker&K8S.md",
+    "Cloud/openStack/오픈스택이해.md",
+    "Cloud/openStack",
     "Develop",
     "Cloud",
     "무제 파일.canvas",
     "2023-07-06.md",
-    "Cloud/Docker&K8S.md",
     "README.md",
     "옵시디언테스트.md",
     "새로운 자료.md",
