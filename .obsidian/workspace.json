@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78e7e8b4e63eefb3",
+        "id": "e87bd1ae33d3b8c4",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd10a248db585da",
+            "id": "992ea609b6241a3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Docker&K8S.md",
-                "mode": "preview",
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -65,13 +68,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "840fe53c7d11ba63",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker&K8S.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker&K8S.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker&K8S.md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -157,15 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dd10a248db585da",
+  "active": "0f095f3d3fcacf58",
   "lastOpenFiles": [
-    "README.md",
+    "2023-07-06.md",
+    "무제 파일.canvas",
     "Docker&K8S.md",
+    "README.md",
     "무제 폴더",
     "옵시디언테스트.md",
-    "2023-07-06.md",
     "새로운 자료.md",
-    "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
 }
