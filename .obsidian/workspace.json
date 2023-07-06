@@ -6,6 +6,7 @@
       {
         "id": "8cc551ad8fed1eec",
         "type": "tabs",
+        "dimension": 46.695095948827294,
         "children": [
           {
             "id": "ca2d825327e3fc28",
@@ -24,6 +25,7 @@
       {
         "id": "78e7e8b4e63eefb3",
         "type": "tabs",
+        "dimension": 53.304904051172706,
         "children": [
           {
             "id": "9dd10a248db585da",
@@ -148,14 +150,21 @@
                 "file": "Docker&K8S.md"
               }
             }
+          },
+          {
+            "id": "02663a65eedd5b79",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca2d825327e3fc28",
+  "active": "02663a65eedd5b79",
   "lastOpenFiles": [
     "README.md",
     "Docker&K8S.md",
