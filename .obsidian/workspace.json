@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"| <input type=\\\"checkbox\"/> | Name         | Tags | Url || ------------------------ | ------------ | ---- | --- || <input type=\"checkbox\"/> | 오픈스택     |      |     || <input type=\"checkbox\"/> | 오픈스택문서 |      |     || <input type=\"checkbox\"/> |쿠버네티스              |      |     || <input type=\"checkbox\"/>                         |            쿠버네티스 기초  |      |     |\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "840fe53c7d11ba63",
@@ -167,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5f1d782aefb53b4",
+  "active": "ca2d825327e3fc28",
   "lastOpenFiles": [
     "README.md",
     "Docker&K8S.md",
