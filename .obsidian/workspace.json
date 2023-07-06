@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc551ad8fed1eec",
-        "type": "tabs",
-        "dimension": 46.695095948827294,
-        "children": [
-          {
-            "id": "ca2d825327e3fc28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker&K8S.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "78e7e8b4e63eefb3",
         "type": "tabs",
-        "dimension": 53.304904051172706,
         "children": [
           {
             "id": "9dd10a248db585da",
@@ -177,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02663a65eedd5b79",
+  "active": "9dd10a248db585da",
   "lastOpenFiles": [
     "README.md",
     "Docker&K8S.md",
