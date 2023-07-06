@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca2d825327e3fc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker&K8S.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker&K8S.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker&K8S.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f095f3d3fcacf58",
+  "active": "ca2d825327e3fc28",
   "lastOpenFiles": [
-    "무제 폴더",
     "Docker&K8S.md",
+    "README.md",
+    "무제 폴더",
     "옵시디언테스트.md",
     "README.md",
     "2023-07-06.md",
