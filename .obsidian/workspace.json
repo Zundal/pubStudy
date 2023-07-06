@@ -11,14 +11,11 @@
             "id": "992ea609b6241a3a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Cloud/Docker&K8S.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Cloud/Docker&K8S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Cloud/Docker&K8S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "Cloud/Docker&K8S.md"
               }
             }
           },
@@ -158,13 +155,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f095f3d3fcacf58",
+  "active": "992ea609b6241a3a",
   "lastOpenFiles": [
-    "2023-07-06.md",
+    "Develop",
+    "Cloud",
     "무제 파일.canvas",
-    "Docker&K8S.md",
+    "2023-07-06.md",
+    "Cloud/Docker&K8S.md",
     "README.md",
-    "무제 폴더",
     "옵시디언테스트.md",
     "새로운 자료.md",
     "무제 파일 1.canvas"
