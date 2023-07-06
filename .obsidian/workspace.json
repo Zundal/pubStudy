@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "78e7e8b4e63eefb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd10a248db585da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker&K8S.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "840fe53c7d11ba63",
