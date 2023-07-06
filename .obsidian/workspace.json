@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Docker&K8S.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -157,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dd10a248db585da",
+  "active": "02663a65eedd5b79",
   "lastOpenFiles": [
     "README.md",
     "Docker&K8S.md",
