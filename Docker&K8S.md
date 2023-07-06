@@ -1,6 +1,6 @@
 도커 쿠버네티스 
 
-| ```<ul><li>- [x] item1</li></ul>``` |
+| <input type="checkbox"/>|
 | -------- |
-|          |
+|<input type="checkbox"/>|
 
