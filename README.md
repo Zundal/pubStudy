@@ -14,9 +14,12 @@
 |                              |                                                                    |
 
 ---
-## 내
-[클라우드](./Cloud/Docker&K8S) [[Docker&K8S]]  
-[Java&Spring](./Develop/Spring/Spring&Java)  
-[Gin&Go](./Develop/Gin/Gin&Go)  
+## 내부링크
+1. [클라우드](./Cloud/Docker&K8S.md)   
+2. [Java&Spring](./Develop/Spring/Spring&Java.md)  
+3. [Gin&Go](./Develop/Gin/Gin&Go.md)  
 
 --- 
+## 옵시디언맵
+
+- [[Docker&K8S]]
