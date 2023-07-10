@@ -44,3 +44,19 @@
 
 1. [[Docker&K8S]]
 2. 
+---
+https://blog.gaerae.com/  
+https://news.hada.io/  
+https://developer.amazon.com/en-US/blogs/alexa  
+https://engineering.linkedin.com/blog  
+https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs  
+https://slack.engineering/  
+https://medium.com/airbnb-engineering  
+https://medium.com/zoom-developer-blog  
+https://medium.com/@Pinterest_Engineering  
+https://medium.com/paypal-tech  
+https://tech.ebayinc.com/  
+https://blog.twitter.com/engineering/en_us  
+https://www.uber.com/ko-KR/blog/seoul/engineering/  
+https://medium.com/googleplaydev  
+https://engineering.atspotify.com/  
