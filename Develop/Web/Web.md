@@ -1,4 +1,4 @@
-| Name | URL |
-| ---- | --- |
-| ### http content-type 관한 정리     |     |
-https://yunzema.tistory.com/186
+| Name                        | URL                                     |
+| --------------------------- | --------------------------------------- |
+| http content-type 정리 | [링크](https://yunzema.tistory.com/186) |
+|                             |                                         |
