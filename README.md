@@ -34,7 +34,7 @@
 1. [클라우드](./Cloud/Docker&K8S.md)   
 2. [Java&Spring](./Develop/Spring/Spring&Java.md)  
 3. [Gin&Go](./Develop/Gin/Gin&Go.md)  
-4. [Web](./Develop/Web/Gin&Go.md)  
+4. [Web](./Develop/Web/Web.md)  
 
 --- 
 ## 옵시디언맵
