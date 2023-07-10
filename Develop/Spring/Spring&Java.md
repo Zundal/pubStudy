@@ -12,6 +12,6 @@
 
 ---
 
-1. [스프링 리액티브 강의] (https://www.youtube.com/live/8fenTR3KOJo?feature=share)
+1. [스프링 리액티브 강의](https://www.youtube.com/live/8fenTR3KOJo?feature=share)
 2. [스프링 5를 활용한 리액티브 프로그래밍](https://hanseul1.github.io/book/development/spring/BOOK-4-%EC%8A%A4%ED%94%84%EB%A7%81-5%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(1)/)
 3. 
