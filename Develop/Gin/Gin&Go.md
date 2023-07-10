@@ -1,4 +1,5 @@
-| NAME         | URL                                                  |
-| ------------ | ---------------------------------------------------- |
-| Golang & Gin | https://dev-yakuza.posstree.com/ko/golang/gin/start/ |
-|              |                                                      |
+| No. | 내부링크 | 옵시디언맵   | 태그 | URL                                                          |
+| --- | -------- | ------------ | ---- | ------------------------------------------------------------ |
+| 1.  |          | Golang & Gin |      | [링크](https://dev-yakuza.posstree.com/ko/golang/gin/start/) |
+| 2.  |          |              |      |                                                              |
+|     |          |              |      |                                                              |
