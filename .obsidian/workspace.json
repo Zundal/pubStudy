@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Gin/Gin&Go.md",
+                "file": "Develop/Spring/Spring&Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Gin/Gin&Go.md",
+                "file": "Develop/Spring/Spring&Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Gin/Gin&Go.md",
+                "file": "Develop/Spring/Spring&Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Gin/Gin&Go.md"
+                "file": "Develop/Spring/Spring&Java.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "5b8d92ece9f16053",
   "lastOpenFiles": [
+    "Develop/Gin/Gin&Go.md",
     "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
     "AI",
     "Develop/Spring/Spring&Java.md",
@@ -167,7 +168,6 @@
     "README.md",
     "Develop/Web",
     "Web",
-    "Develop/Gin/Gin&Go.md",
     "Cloud/Docker&K8S.md",
     "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
     "Cloud/openStack/오픈스택이해.md",
