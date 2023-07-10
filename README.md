@@ -26,6 +26,7 @@
 | 18. | 왓챠 기술블로그              | [링크](https://medium.com/watcha)                                          |
 | 19. | AWS 기술블로그               | [링크](https://aws.amazon.com/ko/blogs/tech/)                              |
 | 20. | ATDD 대해                    | [링크](https://data-make.tistory.com/724)                                  |
+| 21. | Netflix tech blog            | [링크](https://netflixtechblog.com/?gi=b4a5606ea941)                       |
 |     |                              |                                                                            |
 
 ---
