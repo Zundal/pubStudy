@@ -28,6 +28,7 @@
 | 20. | ATDD 대해                    | [링크](https://data-make.tistory.com/724)                                  |
 | 21. | Netflix tech blog            | [링크](https://netflixtechblog.com/?gi=b4a5606ea941)                       |
 | 22. | Meta techlog                 | [링크](https://engineering.fb.com/)                                        |
+| 23. | 11번가 기술블로그            | [링크](https://11st-tech.github.io/)                                       |
 |     |                              |                                                                            |
 
 ---
