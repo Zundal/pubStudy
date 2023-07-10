@@ -155,8 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f095f3d3fcacf58",
+  "active": "5b8d92ece9f16053",
   "lastOpenFiles": [
+    "Web/Web.md",
+    "README.md",
+    "Web",
     "Develop/Spring/Spring&Java.md",
     "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
     "Develop/Spring/스프링  FLUX .md",
@@ -166,7 +169,6 @@
     "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
     "Cloud/openStack/오픈스택이해.md",
     "Cloud/openStack/오픈스택문서.md",
-    "README.md",
     "Career/커리어 노트.md",
     "Career",
     "무제 파일.canvas",
