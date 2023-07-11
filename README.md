@@ -26,6 +26,9 @@
 | 18. | 왓챠 기술블로그              | [링크](https://medium.com/watcha)                                          |
 | 19. | AWS 기술블로그               | [링크](https://aws.amazon.com/ko/blogs/tech/)                              |
 | 20. | ATDD 대해                    | [링크](https://data-make.tistory.com/724)                                  |
+| 21. | Netflix tech blog            | [링크](https://netflixtechblog.com/?gi=b4a5606ea941)                       |
+| 22. | Meta techlog                 | [링크](https://engineering.fb.com/)                                        |
+| 23. | 11번가 기술블로그            | [링크](https://11st-tech.github.io/)                                       |
 |     |                              |                                                                            |
 
 ---
@@ -41,3 +44,19 @@
 
 1. [[Docker&K8S]]
 2. 
+---
+https://blog.gaerae.com/  
+https://news.hada.io/  
+https://developer.amazon.com/en-US/blogs/alexa  
+https://engineering.linkedin.com/blog  
+https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs  
+https://slack.engineering/  
+https://medium.com/airbnb-engineering  
+https://medium.com/zoom-developer-blog  
+https://medium.com/@Pinterest_Engineering  
+https://medium.com/paypal-tech  
+https://tech.ebayinc.com/  
+https://blog.twitter.com/engineering/en_us  
+https://www.uber.com/ko-KR/blog/seoul/engineering/  
+https://medium.com/googleplaydev  
+https://engineering.atspotify.com/  

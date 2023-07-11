@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Web/Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f0e5205dabd603f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -138,12 +151,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,25 +168,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b8d92ece9f16053",
+  "active": "4f0e5205dabd603f",
   "lastOpenFiles": [
     "Web/Web.md",
-    "Web",
+    "conflict-files-obsidian-git.md",
+    "무제 파일.canvas",
+    "Career/커리어 노트.md",
+    "Cloud/openStack/오픈스택문서.md",
+    "Develop/Spring/스프링  FLUX .md",
+    "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
     "Develop/Web/Web.md",
+    "README.md",
+    "Develop/Spring/Spring&Java.md",
+    "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
+    "Web",
     "Develop/Web",
     "Develop/Gin/Gin&Go.md",
-    "Career/커리어 노트.md",
-    "README.md",
     "Career",
-    "Develop/Spring/Spring&Java.md",
-    "무제 파일.canvas",
     "Develop/Gin/Gin& Go lang.md",
-    "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
-    "Cloud/openStack/오픈스택문서.md",
     "Cloud/openStack/오픈스택이해.md",
     "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
-    "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
-    "Develop/Spring/스프링  FLUX .md",
     "Cloud/Docker&K8S.md",
     "스프링 리액티브.md",
     "쿠버네티스.md",
