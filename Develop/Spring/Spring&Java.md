@@ -9,6 +9,7 @@
 | 6.  |          | 팩토리패턴                                | #OOP #Factory          | [링크](https://bcp0109.tistory.com/367)                                                                                             |     |
 | 7.  |          | Spring WebFlux 개념 잡기 1                | #Reactive #flux        | [링크](https://jogeum.net/30)                                                                                                       |     |
 | 8.  |          | 정렬알고리즘                              | #알고리즘 #정렬        | [링크](https://velog.io/@pppp0722/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-7%EA%B0%9C-%EC%A0%95%EB%A6%AC-Java)       |     |
+| 9.  |          | 자바 알고리즘 또는 프로그램 속드 측정     | #속도측정              | [링크](https://inpages.tistory.com/69)                                                                                              |     |
 |     |          |                                           |                        |                                                                                                                                     |     |
 
 ---
