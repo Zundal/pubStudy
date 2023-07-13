@@ -11,8 +11,12 @@
             "id": "445b444c111c9a9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -149,15 +157,15 @@
   },
   "active": "445b444c111c9a9c",
   "lastOpenFiles": [
+    "Web/Web.md",
+    "Develop/Web/Web.md",
     "conflict-files-obsidian-git.md",
     "Develop/Spring/무제 파일.md",
-    "Web/Web.md",
     "무제 파일.canvas",
     "Career/커리어 노트.md",
     "Cloud/openStack/오픈스택문서.md",
     "Develop/Spring/스프링  FLUX .md",
     "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
-    "Develop/Web/Web.md",
     "README.md",
     "Develop/Spring/Spring&Java.md",
     "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
