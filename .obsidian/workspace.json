@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithm/Algorithm.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,18 +155,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "445b444c111c9a9c",
+  "active": "02663a65eedd5b79",
   "lastOpenFiles": [
+    "Career/커리어 노트.md",
+    "Algorithm/Algorithm.md",
+    "Algorithm",
     "Web/Web.md",
     "Develop/Web/Web.md",
-    "conflict-files-obsidian-git.md",
+    "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
     "Develop/Spring/무제 파일.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "무제 파일.canvas",
-    "Career/커리어 노트.md",
     "Cloud/openStack/오픈스택문서.md",
     "Develop/Spring/스프링  FLUX .md",
-    "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
-    "README.md",
     "Develop/Spring/Spring&Java.md",
     "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
     "Web",
