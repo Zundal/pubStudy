@@ -1,8 +1,8 @@
 {
   "commitMessage": "호스트명 : {{hostname}} backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
-  "autoPushInterval": 1,
+  "autoSaveInterval": 5,
+  "autoPushInterval": 10,
   "autoPullInterval": 1,
   "autoPullOnBoot": false,
   "disablePush": false,
