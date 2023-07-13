@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithm/Algorithm.md"
               }
             }
           },
@@ -170,12 +170,13 @@
   },
   "active": "0ca5cb5d04761694",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
     "Algorithms/알고리즘을 왜 해야하는가.md",
     "Algorithm/Algorithm.md",
     "Algorithm",
     "Web/Web.md",
     "Algorithms",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Develop/Spring/무제 파일.md",
     "무제 파일.canvas",
