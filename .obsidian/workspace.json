@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ca5cb5d04761694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/알고리즘을 왜 해야하는가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Web.md",
+                "file": "Algorithms/알고리즘을 왜 해야하는가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Web.md",
+                "file": "Algorithms/알고리즘을 왜 해야하는가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Web.md"
+                "file": "Algorithms/알고리즘을 왜 해야하는가.md"
               }
             }
           },
@@ -155,13 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f095f3d3fcacf58",
+  "active": "0ca5cb5d04761694",
   "lastOpenFiles": [
-    "AI",
+    "Web/Web.md",
+    "Algorithms/알고리즘을 왜 해야하는가.md",
+    "Algorithms",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Develop/Spring/무제 파일.md",
-    "Web/Web.md",
     "무제 파일.canvas",
     "Career/커리어 노트.md",
     "Cloud/openStack/오픈스택문서.md",
