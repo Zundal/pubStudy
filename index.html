@@ -81,7 +81,18 @@
             </section>
         </main>
     </div>
-    <link rel="import" href="./footer.html">
+    <footer id="footer"></footer>
 </body>
 
 </html>
+
+<script type="text/javascript">
+    window.addEventListener('DOMContentLoaded', function() {
+        const footer = document.getElementById('footer');
+        fetch('./footer.html')
+            .then(response => response.text())
+            .then(html => {
+                footer.innerHTML = html;
+            });
+    });
+</script>
