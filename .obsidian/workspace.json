@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI.md",
+                "file": "Develop/Spring/Spring&Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI.md",
+                "file": "Develop/Spring/Spring&Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI.md",
+                "file": "Develop/Spring/Spring&Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI.md"
+                "file": "Develop/Spring/Spring&Java.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "445b444c111c9a9c",
   "lastOpenFiles": [
-    "AI/ML_OPS란_무엇인가?.md",
+    "Develop/Spring/JPA.md",
     "AI/AI.md",
+    "AI/ML_OPS란_무엇인가?.md",
     "README.md",
     "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
     "Develop/Spring/스프링  FLUX .md",
-    "Develop/Spring/무제 파일.md",
     "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
     "Develop/Spring/Spring&Java.md",
     "Develop/Gin/Gin&Go.md",
