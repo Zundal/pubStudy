@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/ML_OPS란_무엇인가?.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/ML_OPS란_무엇인가?.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/ML_OPS란_무엇인가?.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/ML_OPS란_무엇인가?.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,35 +157,35 @@
   },
   "active": "445b444c111c9a9c",
   "lastOpenFiles": [
-    "AI/AI.md",
-    "AI/ML_OPS란_무엇인가?.md",
-    "AI/test.md",
-    "Cloud/Docker&K8S.md",
-    "Develop/Spring/Spring&Java.md",
-    "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
+    "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
     "Develop/Spring/스프링  FLUX .md",
     "Develop/Spring/무제 파일.md",
-    "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
+    "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
+    "Develop/Spring/Spring&Java.md",
+    "Develop/Gin/Gin&Go.md",
+    "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
+    "Cloud/openStack/오픈스택이해.md",
+    "Cloud/openStack/오픈스택문서.md",
+    "Career/커리어 노트.md",
+    "Algorithms/알고리즘을 왜 해야하는가.md",
+    "Algorithms/Algorithm.md",
+    "AI/ML_OPS란_무엇인가?.md",
+    "AI/AI.md",
+    "AI/test.md",
+    "Cloud/Docker&K8S.md",
     "Develop/Web/Web.md",
     "Untitled.canvas",
-    "Algorithms/알고리즘을 왜 해야하는가.md",
     "AI",
-    "Algorithms/Algorithm.md",
     "conflict-files-obsidian-git.md",
     "Algorithms",
-    "Career/커리어 노트.md",
     "Algorithm",
     "Web/Web.md",
     "README.md",
     "무제 파일.canvas",
-    "Cloud/openStack/오픈스택문서.md",
     "Web",
     "Develop/Web",
-    "Develop/Gin/Gin&Go.md",
     "Career",
     "Develop/Gin/Gin& Go lang.md",
-    "Cloud/openStack/오픈스택이해.md",
-    "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
     "스프링 리액티브.md",
     "쿠버네티스.md",
     "Develop/Gin",
