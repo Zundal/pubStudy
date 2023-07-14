@@ -1,43 +1,72 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title >WIKI</title>
+    <style>
+        a {
+            color: white;
+        }
+        /* 스타일을 통해 컨테이너를 가로로 나눕니다 */
+        .container {
+            display: flex;
+            flex-direction: row;
+        }
+
+        /* 네비게이션 스타일 */
+        nav {
+            flex-basis: 30%;
+        }
+
+        /* 메인 컨텐츠 스타일 */
+        main {
+            flex-basis: 70%;
+        }
+    </style>
+    <title>WIKI</title>
+
 </head>
 
 <body>
     <header></header>
-<nav>
-    <a href="">main</a>
-</nav>
-<main>
-    <h1>지식저장소</h1>
-    <section>
-        <article>
-            <table cellspacing="0" cellpadding="">
-                <tr>
-                    <td>User</td>
-                </tr>
+    <div class="container">
+        <nav>
 
-                <tr>
-                    <td><a href="https://github.com/ming-000">김민정</a></td>
-                </tr>
-                
-                <tr>
-                    <td><a href="https://github.com/isun-dev">최인선</a></td>
-                </tr>
-                
-                <tr>
-                    <td><a href="https://github.com/choijunkeun">최준근</a></td>
-                </tr>
-            </table>
-        </article>
-    </section>
-</main>
+            <ul>
+                <li><a href="#">메뉴 1</a></li>
+                <li><a href="#">메뉴 2</a></li>
+                <li><a href="#">메뉴 3</a></li>
+            </ul>
+        </nav>
+        <main>
+            <h1>지식저장소</h1>
+            <section>
+                <article>
+                    <table cellspacing="0" cellpadding="">
+                        <tr>
+                            <td>User</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/ming-000">김민정</a></td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/isun-dev">최인선</a></td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/choijunkeun">최준근</a></td>
+                        </tr>
+                    </table>
+                </article>
+            </section>
+        </main>
+    </div>
     <footer>
 
-    </footer>    
+    </footer>
 </body>
 
 </html>
