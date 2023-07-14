@@ -3,12 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>wiki</title>
 </head>
 <body>
     <header></header>
     <div class="container">
         <nav id="nav"></nav>
+        <main>
+            <h1>📦 Center</h1>
+            <br/>
+            <nav>
+                <a href="./index.html">index</a>
+                <a href="./wiki.html">WIKI</a>
+            </nav>
+            <br/>
+            <section id="">
+
+            </section>
+        </main>
     </div>
 </body>
+<script type="text/javascript">
+    window.addEventListener('DOMContentLoaded', function() {
+        const footer = document.getElementById('footer');
+        fetch('./footer.html')
+        .then(response => response.text())
+        .then(html => {
+            footer.innerHTML = html;
+        });
+
+        const nav = document.getElementById('nav');
+        fetch('./navigator.html')
+        .then(response => response.text())
+        .then(html => {
+            nav.innerHTML = html;
+        });
+    });
+</script>
 </html>

@@ -14,3 +14,19 @@ body {
 a {
     color: black;
 }
+
+/* 스타일을 통해 컨테이너를 가로로 나눕니다 */
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+/* 네비게이션 스타일 */
+nav {
+    flex-basis: 30%;
+}
+
+/* 메인 컨텐츠 스타일 */
+main {
+    flex-basis: 70%;
+}
