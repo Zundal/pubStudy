@@ -29,6 +29,9 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
+<<<<<<< HEAD
+>>>>>>> 5782f8f2860704090fa2e347e0b5460f54fbf2b0
+=======
 >>>>>>> 5782f8f2860704090fa2e347e0b5460f54fbf2b0
                 "mode": "source",
                 "source": false
@@ -174,10 +177,13 @@
   "active": "445b444c111c9a9c",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
     "Algorithm/Algorithm.md",
     "Algorithms/알고리즘을 왜 해야하는가.md",
 =======
+=======
+>>>>>>> 5782f8f2860704090fa2e347e0b5460f54fbf2b0
     "Algorithm/Algorithm.md",
     "Algorithms/알고리즘을 왜 해야하는가.md",
     "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
@@ -185,6 +191,9 @@
     "Develop/Spring/무제 파일.md",
     "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
     "Develop/Gin/Gin&Go.md",
+<<<<<<< HEAD
+>>>>>>> 5782f8f2860704090fa2e347e0b5460f54fbf2b0
+=======
 >>>>>>> 5782f8f2860704090fa2e347e0b5460f54fbf2b0
     "Untitled.canvas",
     "Algorithms",
