@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS.md",
+                "file": "Career/커리어 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CS.md",
+                "file": "Career/커리어 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CS.md",
+                "file": "Career/커리어 노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CS.md"
+                "file": "Career/커리어 노트.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "445b444c111c9a9c",
   "lastOpenFiles": [
+    "CS/CS.md",
     "index.html",
     "Develop/Spring/Spring&Java.md",
-    "CS/CS.md",
     "CS",
     "Develop/Spring/JPA.md",
     "AI/AI.md",
@@ -194,7 +194,6 @@
     "Develop/Gin",
     "Develop/Spring",
     "Cloud/openStack/오픈스택.md",
-    "Cloud/openStack",
     "무제 파일 1.canvas"
   ]
 }
