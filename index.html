@@ -10,9 +10,11 @@
             margin: 0;
             padding: 0;
         }
+
         a {
             color: black;
         }
+
         /* 스타일을 통해 컨테이너를 가로로 나눕니다 */
         .container {
             display: flex;
@@ -29,7 +31,16 @@
             flex-basis: 70%;
         }
 
-          /* body 요소의 높이를 100vh로 설정합니다 */
+        .navContainer {
+            height: 100vh;
+        }
+
+        .dateP{
+            margin: 10px;
+            padding: 10px;
+            position: absolute;
+            bottom: 20px;
+        }
     
     </style>
     <title>WIKI</title>
@@ -39,12 +50,14 @@
 <body>
     <header></header>
     <div class="container">
-        <nav>
+        <nav class="navContainer">
             <ul>
                 <li><a href="./index.html">index</a></li>
                 <li><a href="#"></a>WIKI</li>
             </ul>
-            
+            <p class="dateP">
+                2023
+            </p>
         </nav>
         <main>
             <h1>지식저장소</h1>
