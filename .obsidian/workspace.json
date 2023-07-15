@@ -11,15 +11,24 @@
             "id": "445b444c111c9a9c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1750ec5ba47b5a1c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/커리어 노트.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/커리어 노트.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/커리어 노트.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/커리어 노트.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,42 +164,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "445b444c111c9a9c",
+  "active": "1750ec5ba47b5a1c",
   "lastOpenFiles": [
-    "footer.html",
-    "index.js",
     "wiki.html",
-    "index.css",
     "navigator.html",
-    "CS/CS.md",
+    "index.js",
     "index.html",
-    "Develop/Spring/Spring&Java.md",
-    "CS",
-    "Develop/Spring/JPA.md",
-    "AI/AI.md",
-    "AI/ML_OPS란_무엇인가?.md",
+    "index.css",
+    "Web/Web.md",
+    "Web",
+    "Untitled.canvas",
     "README.md",
     "Develop/Spring/오버로딩 & 오버라이딩의 시점차이.md",
+    "Develop/Web/Web.md",
     "Develop/Spring/스프링  FLUX .md",
     "Develop/Spring/객체지향에서 메세지와 메소드는 다르다.md",
+    "Develop/Spring/Spring&Java.md",
+    "Develop/Spring/JPA.md",
     "Develop/Gin/Gin&Go.md",
+    "Develop/Web",
+    "Develop/Spring",
+    "Develop/Gin",
+    "Develop",
     "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
     "Cloud/openStack/오픈스택이해.md",
     "Cloud/openStack/오픈스택문서.md",
+    "Cloud/openStack",
+    "Cloud/Docker&K8S.md",
     "Career/커리어 노트.md",
+    "CS/CS.md",
     "Algorithms/알고리즘을 왜 해야하는가.md",
     "Algorithms/Algorithm.md",
-    "AI/test.md",
-    "Cloud/Docker&K8S.md",
-    "Develop/Web/Web.md",
-    "Untitled.canvas",
-    "AI",
+    "AI/ML_OPS란_무엇인가?.md",
+    "AI/AI.md",
     "conflict-files-obsidian-git.md",
-    "Algorithms",
-    "Algorithm",
-    "Web/Web.md",
+    "AI/test.md",
     "무제 파일.canvas",
-    "Web",
     "Develop/Gin/Gin& Go lang.md",
     "스프링 리액티브.md",
     "쿠버네티스.md",
