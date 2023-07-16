@@ -30,3 +30,19 @@ nav {
 main {
     flex-basis: 70%;
 }
+
+#nav {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.navContainer > ul > li {
+    margin-top: 10px;
+}
+
+.navWidth > a {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
