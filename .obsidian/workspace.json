@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/무제 파일.md",
+                "file": "Architecture/Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch/무제 파일.md",
+                "file": "Architecture/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch/무제 파일.md",
+                "file": "Architecture/Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch/무제 파일.md"
+                "file": "Architecture/Architecture.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "445b444c111c9a9c",
   "lastOpenFiles": [
-    "Arch/무제 파일.md",
-    "Arch",
+    "Architecture/Architecture.md",
+    "Architecture",
     "wiki.html",
     "navigator.html",
     "index.js",
