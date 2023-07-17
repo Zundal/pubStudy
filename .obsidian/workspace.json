@@ -11,8 +11,12 @@
             "id": "445b444c111c9a9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arch/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arch/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arch/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arch/무제 파일.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f095f3d3fcacf58",
+  "active": "445b444c111c9a9c",
   "lastOpenFiles": [
+    "Arch/무제 파일.md",
+    "Arch",
     "wiki.html",
     "navigator.html",
     "index.js",
@@ -168,11 +178,9 @@
     "Develop/Web",
     "Develop/Spring",
     "Develop/Gin",
-    "Develop",
     "Cloud/openStack/클라우드 관리플랫폼 CMP.md",
     "Cloud/openStack/오픈스택이해.md",
     "Cloud/openStack/오픈스택문서.md",
-    "Cloud/openStack",
     "Cloud/Docker&K8S.md",
     "Career/커리어 노트.md",
     "CS/CS.md",
