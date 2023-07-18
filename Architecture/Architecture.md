@@ -44,8 +44,8 @@ MicroService Architecture 단점[Permalink](https://junhyunny.github.io/msa/msa-
 
 모놀리스식 아키텍처 장점
 
-개발이간단
-어플리케이션을 쉽게 변경가능
-테스트하기 쉬움
-배포하기 쉬움
-확장하기 쉬움
+1. 개발이간단
+2. 어플리케이션을 쉽게 변경가능
+3. 테스트하기 쉬움
+4. 배포하기 쉬움
+5. 확장하기 쉬움
